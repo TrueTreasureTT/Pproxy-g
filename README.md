@@ -1,2 +1,2 @@
 # Pproxy/g
-The games page for Pproxy/g (proxy)
+inspired by nintendoboi2
